@@ -1,1 +1,5 @@
-
+Step:1
+      amazon-linux-extras install epel -y
+      
+Step:2
+      yum install stress –y
